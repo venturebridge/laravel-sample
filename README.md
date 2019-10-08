@@ -1,4 +1,4 @@
-#Laravel 샘플 프로젝트 구성 방법
+# Laravel 샘플 프로젝트 구성 방법
 
 ---
 
@@ -43,7 +43,7 @@ Laravel 기동에 필요한 Extension 디렉토리 설정 및  필수 Extension 
 
 [https://mariadb.org/download/](https://mariadb.org/download/)
 
-**다운로드 후 설치를 진행하되 비밀번호를 통해 로그인이 가능한 형태로 설치한다.**
+*다운로드 후 설치를 진행하되 비밀번호를 통해 로그인이 가능한 형태로 설치한다.*
 
 
 **데이터베이스 생성**
